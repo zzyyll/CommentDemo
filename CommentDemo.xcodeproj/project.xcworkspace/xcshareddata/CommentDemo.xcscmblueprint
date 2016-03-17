@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0091E4FEA0764045F28635579578A1D7F764275C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "31FCF4EB222088A1CDC0F36ADF9603B1BD31D221" : 0,
+    "0091E4FEA0764045F28635579578A1D7F764275C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "04876363-D034-4C9E-B41E-F3DE2FBCD461",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "31FCF4EB222088A1CDC0F36ADF9603B1BD31D221" : "CommentDemo\/CommentDemo\/",
+    "0091E4FEA0764045F28635579578A1D7F764275C" : "CommentDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CommentDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CommentDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:zzyyll\/selectManyImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0091E4FEA0764045F28635579578A1D7F764275C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zzyyll\/selectManyImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "31FCF4EB222088A1CDC0F36ADF9603B1BD31D221"
+    }
+  ]
+}
